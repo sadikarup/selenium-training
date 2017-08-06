@@ -2,6 +2,6 @@ package qahrm;
 
 public class Test2 {
   
-  sadan NEW
+  sadan 1234
 
 }
